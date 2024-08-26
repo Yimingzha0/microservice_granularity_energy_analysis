@@ -1,0 +1,48 @@
+
+Statistics for Train Ticket system:
+             Count       Mean   Std Dev       Min       25%    Median  \
+Granularity                                                             
+coarse          60  11.635999  5.239262  6.965854  8.303497  9.021477   
+fine            57  11.428349  5.283076  6.526571  8.067418  8.943493   
+med             60  10.729725  4.329324  6.790932  7.873376  9.131885   
+
+                   75%        Max  
+Granularity                        
+coarse       12.880376  25.112398  
+fine         13.745646  28.246302  
+med          10.931847  23.361495  
+
+Overall statistics:
+count    177.000000
+mean      11.261917
+std        4.951676
+min        6.526571
+25%        8.098281
+50%        9.038410
+75%       12.771905
+max       28.246302
+Name: Average_Latency, dtype: float64
+
+Statistics for Pet Clinic system:
+             Count       Mean    Std Dev       Min        25%     Median  \
+Granularity                                                                
+coarse          60  12.396969   3.704223  7.811704   9.165545  11.469148   
+fine            59  23.958651  10.710140  7.760373  16.496275  22.267746   
+med             57  12.850886   5.800580  7.680257   9.166546  11.608178   
+
+                   75%        Max  
+Granularity                        
+coarse       15.744369  20.156802  
+fine         31.564773  61.141124  
+med          14.963164  43.463357  
+
+Overall statistics:
+count    176.000000
+mean      16.419767
+std        9.070206
+min        7.680257
+25%        9.682136
+50%       14.359489
+75%       20.091442
+max       61.141124
+Name: Average_Latency, dtype: float64

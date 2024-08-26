@@ -1,0 +1,148 @@
+
+Detailed Statistics for Train Ticket system:
+
+Granularity: coarse, Request Amount: burst, Distribution: high
+ Count     Mean  Std Dev      Min      25%   Median      75%       Max
+    10 9.413209 2.117677 8.023779 8.439448 8.670873 9.055355 15.198171
+
+Granularity: coarse, Request Amount: burst, Distribution: low
+ Count      Mean  Std Dev      Min      25%   Median       75%       Max
+    10 14.466789 7.592567 7.238387 8.857054 9.635656 22.415259 25.112398
+
+Granularity: coarse, Request Amount: burst, Distribution: med
+ Count     Mean  Std Dev     Min      25%   Median      75%       Max
+    10 9.256959 1.737384 7.52722 8.158487 8.586032 9.521299 12.791224
+
+Granularity: coarse, Request Amount: even, Distribution: high
+ Count      Mean  Std Dev      Min      25%  Median       75%       Max
+    10 10.893122 4.076539 8.276787 8.519632 8.71951 10.559013 19.337328
+
+Granularity: coarse, Request Amount: even, Distribution: low
+ Count     Mean  Std Dev      Min     25%   Median      75%       Max
+    10 9.906683 3.852919 6.965854 7.60717 8.325408 9.758289 18.063851
+
+Granularity: coarse, Request Amount: even, Distribution: med
+ Count      Mean  Std Dev      Min       25%    Median       75%       Max
+    10 15.879231 6.221899 7.590301 10.331181 15.118849 21.904659 23.814215
+
+Granularity: fine, Request Amount: burst, Distribution: high
+ Count      Mean  Std Dev     Min      25%    Median      75%       Max
+    10 12.024115 3.266439 8.85454 9.370252 10.432783 14.89012 17.128528
+
+Granularity: fine, Request Amount: burst, Distribution: low
+ Count     Mean  Std Dev      Min      25%   Median      75%      Max
+    10 8.018081 0.826988 6.526571 7.851666 8.198028 8.279934 9.548294
+
+Granularity: fine, Request Amount: burst, Distribution: med
+ Count     Mean  Std Dev      Min      25%   Median      75%       Max
+     9 9.426368 4.862569 7.447435 7.580353 7.889498 8.110567 22.367549
+
+Granularity: fine, Request Amount: even, Distribution: high
+ Count      Mean  Std Dev      Min       25%   Median       75%       Max
+    10 15.958528 4.566154 9.611543 12.850009 14.47832 20.423067 22.331404
+
+Granularity: fine, Request Amount: even, Distribution: low
+ Count      Mean  Std Dev     Min      25%   Median      75%       Max
+     9 11.918384 8.205265 7.03349 7.589384 8.067418 8.940433 28.246302
+
+Granularity: fine, Request Amount: even, Distribution: med
+ Count      Mean  Std Dev      Min      25%   Median       75%       Max
+     9 11.033989 4.752715 6.979611 8.635545 8.990978 10.015095 20.876629
+
+Granularity: med, Request Amount: burst, Distribution: high
+ Count     Mean  Std Dev      Min      25%   Median       75%       Max
+    10 10.72027 3.068192 7.923232 8.587179 9.603752 11.622403 17.498035
+
+Granularity: med, Request Amount: burst, Distribution: low
+ Count    Mean  Std Dev      Min      25%  Median      75%       Max
+    10 9.45076 2.905099 7.199792 7.735592 8.26458 8.976476 14.963164
+
+Granularity: med, Request Amount: burst, Distribution: med
+ Count      Mean  Std Dev      Min      25%   Median       75%       Max
+    10 13.091967 6.373335 7.506598 7.912492 9.768011 19.187916 23.361495
+
+Granularity: med, Request Amount: even, Distribution: high
+ Count      Mean  Std Dev      Min      25%    Median       75%       Max
+    10 11.717631 3.888044 7.885391 9.208512 10.253613 12.513313 18.966799
+
+Granularity: med, Request Amount: even, Distribution: low
+ Count     Mean  Std Dev      Min      25%   Median      75%       Max
+    10 7.827711 0.995732 6.790932 7.334487 7.558787 7.770195 10.296841
+
+Granularity: med, Request Amount: even, Distribution: med
+ Count      Mean  Std Dev     Min      25%   Median      75%       Max
+    10 11.570013 5.389409 7.88098 9.247632 9.391148 9.628439 22.222579
+
+Detailed Statistics for Pet Clinic system:
+
+Granularity: coarse, Request Amount: burst, Distribution: high
+ Count     Mean  Std Dev      Min      25%   Median     75%       Max
+    10 9.183171 0.650337 8.524635 8.698247 8.953979 9.57289 10.529321
+
+Granularity: coarse, Request Amount: burst, Distribution: low
+ Count      Mean  Std Dev      Min       25%  Median       75%       Max
+    10 17.096786 1.686735 15.10202 15.659513  17.032 18.376372 20.156802
+
+Granularity: coarse, Request Amount: burst, Distribution: med
+ Count     Mean  Std Dev      Min      25%   Median      75%       Max
+    10 9.885202 0.403916 9.367698 9.687033 9.757435 9.995005 10.634824
+
+Granularity: coarse, Request Amount: even, Distribution: high
+ Count     Mean  Std Dev      Min      25%   Median      75%      Max
+    10 8.335815 0.356219 7.811704 8.175045 8.321989 8.389355 9.203371
+
+Granularity: coarse, Request Amount: even, Distribution: low
+ Count      Mean  Std Dev       Min       25%    Median       75%       Max
+    10 16.903497 1.295229 14.815121 15.981996 16.660073 18.155783 18.525168
+
+Granularity: coarse, Request Amount: even, Distribution: med
+ Count      Mean  Std Dev       Min       25%    Median       75%       Max
+    10 12.977342 0.648942 12.303471 12.581431 12.762445 13.347805 14.352985
+
+Granularity: fine, Request Amount: burst, Distribution: high
+ Count      Mean  Std Dev      Min      25%   Median       75%       Max
+    10 10.139692 2.253744 7.760373 8.976835 9.463788 10.304477 14.928604
+
+Granularity: fine, Request Amount: burst, Distribution: low
+ Count      Mean  Std Dev       Min       25%    Median       75%       Max
+    10 30.101681 7.601342 21.062424 23.341374 29.480292 36.609865 41.424524
+
+Granularity: fine, Request Amount: burst, Distribution: med
+ Count      Mean  Std Dev      Min       25%    Median       75%       Max
+    10 18.648027  4.58881 9.797724 16.090668 19.280529 21.785845 24.592117
+
+Granularity: fine, Request Amount: even, Distribution: high
+ Count      Mean  Std Dev       Min       25%    Median       75%       Max
+    10 20.488106 2.297253 16.208111 20.023294 21.304479 22.068947 22.914891
+
+Granularity: fine, Request Amount: even, Distribution: low
+ Count      Mean   Std Dev       Min       25%    Median       75%       Max
+     9 34.730922 14.061103 20.069655 25.287106 31.597981 40.704982 61.141124
+
+Granularity: fine, Request Amount: even, Distribution: med
+ Count      Mean  Std Dev       Min       25%    Median       75%       Max
+    10 30.720705 2.933275 25.735465 29.298002 31.691705 31.931835 35.811026
+
+Granularity: med, Request Amount: burst, Distribution: high
+ Count      Mean  Std Dev      Min      25%   Median       75%       Max
+    10 10.958242 3.635984 7.885564 8.547663 9.507784 12.000169 19.967757
+
+Granularity: med, Request Amount: burst, Distribution: low
+ Count      Mean  Std Dev       Min       25%    Median       75%       Max
+    10 15.083399 0.456578 14.365992 14.792415 15.050747 15.285408 15.912353
+
+Granularity: med, Request Amount: burst, Distribution: med
+ Count     Mean  Std Dev      Min      25%   Median       75%       Max
+    10 9.803462 0.392998 9.138589 9.552938 9.743487 10.068117 10.524923
+
+Granularity: med, Request Amount: even, Distribution: high
+ Count     Mean  Std Dev      Min      25%   Median      75%      Max
+    10 8.439717 0.617731 7.680257 8.215635 8.306704 8.430106 9.866624
+
+Granularity: med, Request Amount: even, Distribution: low
+ Count      Mean  Std Dev       Min       25%    Median       75%       Max
+     7 21.526956 9.859425 15.679753 16.667466 17.563214 20.323719 43.463357
+
+Granularity: med, Request Amount: even, Distribution: med
+ Count      Mean  Std Dev       Min       25%    Median       75%       Max
+    10 13.896359 5.419303 10.565795 11.690461 12.401391 13.009018 29.126412

@@ -1,0 +1,540 @@
+For CSV file 'locustfile_burst_high_0.01_80_40_10s_1_requests.csv':
+  Corresponding log timestamp: 16:30:03
+  Sum of last values: 395.67999999999995
+For CSV file 'locustfile_burst_high_0.01_80_40_10s_2_requests.csv':
+  Corresponding log timestamp: 16:32:33
+  Sum of last values: 390.7
+For CSV file 'locustfile_burst_high_0.01_80_40_10s_3_requests.csv':
+  Corresponding log timestamp: 16:35:03
+  Sum of last values: 371.4200000000001
+For CSV file 'locustfile_burst_high_0.01_80_40_10s_4_requests.csv':
+  Corresponding log timestamp: 16:37:33
+  Sum of last values: 363.28999999999996
+For CSV file 'locustfile_burst_high_0.01_80_40_10s_5_requests.csv':
+  Corresponding log timestamp: 16:40:03
+  Sum of last values: 376.11
+For CSV file 'locustfile_burst_high_0.01_80_40_10s_6_requests.csv':
+  Corresponding log timestamp: 16:42:43
+  Sum of last values: 362.73
+For CSV file 'locustfile_burst_high_0.01_80_40_10s_7_requests.csv':
+  Corresponding log timestamp: 16:45:13
+  Sum of last values: 361.3299999999999
+For CSV file 'locustfile_burst_high_0.01_80_40_10s_8_requests.csv':
+  Corresponding log timestamp: 16:47:43
+  Sum of last values: 354.2800000000001
+For CSV file 'locustfile_burst_high_0.01_80_40_10s_9_requests.csv':
+  Corresponding log timestamp: 16:50:13
+  Sum of last values: 355.5899999999999
+For CSV file 'locustfile_burst_high_0.01_80_40_10s_10_requests.csv':
+  Corresponding log timestamp: 16:52:43
+  Sum of last values: 352.43000000000006
+For CSV file 'locustfile_burst_med_0.4_80_40_10s_1_requests.csv':
+  Corresponding log timestamp: 16:55:03
+  Sum of last values: 339.44999999999993
+For CSV file 'locustfile_burst_med_0.4_80_40_10s_2_requests.csv':
+  Corresponding log timestamp: 16:57:33
+  Sum of last values: 337.43000000000006
+For CSV file 'locustfile_burst_med_0.4_80_40_10s_3_requests.csv':
+  Corresponding log timestamp: 17:00:03
+  Sum of last values: 337.93999999999994
+For CSV file 'locustfile_burst_med_0.4_80_40_10s_4_requests.csv':
+  Corresponding log timestamp: 17:02:33
+  Sum of last values: 336.9200000000001
+For CSV file 'locustfile_burst_med_0.4_80_40_10s_5_requests.csv':
+  Corresponding log timestamp: 17:05:13
+  Sum of last values: 338.44
+For CSV file 'locustfile_burst_med_0.4_80_40_10s_6_requests.csv':
+  Corresponding log timestamp: 17:07:43
+  Sum of last values: 336.96
+For CSV file 'locustfile_burst_med_0.4_80_40_10s_7_requests.csv':
+  Corresponding log timestamp: 17:10:13
+  Sum of last values: 339.91999999999996
+For CSV file 'locustfile_burst_med_0.4_80_40_10s_8_requests.csv':
+  Corresponding log timestamp: 17:12:43
+  Sum of last values: 333.80999999999995
+For CSV file 'locustfile_burst_med_0.4_80_40_10s_9_requests.csv':
+  Corresponding log timestamp: 17:15:13
+  Sum of last values: 340.36999999999995
+For CSV file 'locustfile_burst_med_0.4_80_40_10s_10_requests.csv':
+  Corresponding log timestamp: 17:17:43
+  Sum of last values: 341.26
+For CSV file 'locustfile_burst_low_5_80_40_10s_1_requests.csv':
+  Corresponding log timestamp: 17:20:03
+  Sum of last values: 335.53999999999996
+For CSV file 'locustfile_burst_low_5_80_40_10s_2_requests.csv':
+  Corresponding log timestamp: 17:22:33
+  Sum of last values: 339.90000000000003
+For CSV file 'locustfile_burst_low_5_80_40_10s_3_requests.csv':
+  Corresponding log timestamp: 17:25:03
+  Sum of last values: 336.81
+For CSV file 'locustfile_burst_low_5_80_40_10s_4_requests.csv':
+  Corresponding log timestamp: 17:27:43
+  Sum of last values: 335.86999999999995
+For CSV file 'locustfile_burst_low_5_80_40_10s_5_requests.csv':
+  Corresponding log timestamp: 17:30:13
+  Sum of last values: 331.64
+For CSV file 'locustfile_burst_low_5_80_40_10s_6_requests.csv':
+  Corresponding log timestamp: 17:32:43
+  Sum of last values: 333.63999999999993
+For CSV file 'locustfile_burst_low_5_80_40_10s_7_requests.csv':
+  Corresponding log timestamp: 17:35:13
+  Sum of last values: 337.5
+For CSV file 'locustfile_burst_low_5_80_40_10s_8_requests.csv':
+  Corresponding log timestamp: 17:37:43
+  Sum of last values: 333.2800000000001
+For CSV file 'locustfile_burst_low_5_80_40_10s_9_requests.csv':
+  Corresponding log timestamp: 17:40:13
+  Sum of last values: 330.72999999999996
+For CSV file 'locustfile_burst_low_5_80_40_10s_10_requests.csv':
+  Corresponding log timestamp: 17:42:43
+  Sum of last values: 331.32
+For CSV file 'locustfile_even_high_0.5_80_40_120s_1_requests.csv':
+  Corresponding log timestamp: 17:45:03
+  Sum of last values: 374.7800000000001
+For CSV file 'locustfile_even_high_0.5_80_40_120s_2_requests.csv':
+  Corresponding log timestamp: 17:47:43
+  Sum of last values: 392.8
+For CSV file 'locustfile_even_high_0.5_80_40_120s_3_requests.csv':
+  Corresponding log timestamp: 17:50:13
+  Sum of last values: 383.61999999999995
+For CSV file 'locustfile_even_high_0.5_80_40_120s_4_requests.csv':
+  Corresponding log timestamp: 17:52:43
+  Sum of last values: 377.61999999999995
+For CSV file 'locustfile_even_high_0.5_80_40_120s_5_requests.csv':
+  Corresponding log timestamp: 17:55:13
+  Sum of last values: 376.64
+For CSV file 'locustfile_even_high_0.5_80_40_120s_6_requests.csv':
+  Corresponding log timestamp: 17:57:43
+  Sum of last values: 373.48999999999995
+For CSV file 'locustfile_even_high_0.5_80_40_120s_7_requests.csv':
+  Corresponding log timestamp: 18:00:13
+  Sum of last values: 372.39000000000004
+For CSV file 'locustfile_even_high_0.5_80_40_120s_8_requests.csv':
+  Corresponding log timestamp: 18:02:43
+  Sum of last values: 371.65
+For CSV file 'locustfile_even_high_0.5_80_40_120s_9_requests.csv':
+  Corresponding log timestamp: 18:05:13
+  Sum of last values: 370.54
+For CSV file 'locustfile_even_high_0.5_80_40_120s_10_requests.csv':
+  Corresponding log timestamp: 18:07:43
+  Sum of last values: 368.12
+For CSV file 'locustfile_even_med_6_80_40_120s_1_requests.csv':
+  Corresponding log timestamp: 18:10:13
+  Sum of last values: 336.84000000000003
+For CSV file 'locustfile_even_med_6_80_40_120s_2_requests.csv':
+  Corresponding log timestamp: 18:12:43
+  Sum of last values: 333.27
+For CSV file 'locustfile_even_med_6_80_40_120s_3_requests.csv':
+  Corresponding log timestamp: 18:15:13
+  Sum of last values: 335.84000000000003
+For CSV file 'locustfile_even_med_6_80_40_120s_4_requests.csv':
+  Corresponding log timestamp: 18:17:43
+  Sum of last values: 337.90000000000003
+For CSV file 'locustfile_even_med_6_80_40_120s_5_requests.csv':
+  Corresponding log timestamp: 18:20:13
+  Sum of last values: 342.22
+For CSV file 'locustfile_even_med_6_80_40_120s_6_requests.csv':
+  Corresponding log timestamp: 18:22:43
+  Sum of last values: 342.42
+For CSV file 'locustfile_even_med_6_80_40_120s_7_requests.csv':
+  Corresponding log timestamp: 18:25:13
+  Sum of last values: 339.76000000000005
+For CSV file 'locustfile_even_med_6_80_40_120s_8_requests.csv':
+  Corresponding log timestamp: 18:27:43
+  Sum of last values: 337.59000000000003
+For CSV file 'locustfile_even_med_6_80_40_120s_9_requests.csv':
+  Corresponding log timestamp: 18:30:13
+  Sum of last values: 339.46000000000004
+For CSV file 'locustfile_even_med_6_80_40_120s_10_requests.csv':
+  Corresponding log timestamp: 18:32:53
+  Sum of last values: 341.9699999999999
+For CSV file 'locustfile_even_low60_80_40_120s_1_requests.csv':
+  Corresponding log timestamp: 18:35:13
+  Sum of last values: 331.39
+For CSV file 'locustfile_even_low60_80_40_120s_2_requests.csv':
+  Corresponding log timestamp: 18:37:43
+  Sum of last values: 330.2999999999999
+For CSV file 'locustfile_even_low60_80_40_120s_3_requests.csv':
+  Corresponding log timestamp: 18:40:13
+  Sum of last values: 332.92
+For CSV file 'locustfile_even_low60_80_40_120s_4_requests.csv':
+  Corresponding log timestamp: 18:42:43
+  Sum of last values: 336.23999999999995
+For CSV file 'locustfile_even_low60_80_40_120s_5_requests.csv':
+  Corresponding log timestamp: 18:45:13
+  Sum of last values: 336.65000000000003
+For CSV file 'locustfile_even_low60_80_40_120s_6_requests.csv':
+  Corresponding log timestamp: 18:47:43
+  Sum of last values: 335.51000000000005
+For CSV file 'locustfile_even_low60_80_40_120s_7_requests.csv':
+  Corresponding log timestamp: 18:50:13
+  Sum of last values: 336.3
+For CSV file 'locustfile_even_low60_80_40_120s_8_requests.csv':
+  Corresponding log timestamp: 18:52:43
+  Sum of last values: 340.30000000000007
+For CSV file 'locustfile_even_low60_80_40_120s_9_requests.csv':
+  Corresponding log timestamp: 18:55:23
+  Sum of last values: 332.3
+For CSV file 'locustfile_even_low60_80_40_120s_10_requests.csv':
+  Corresponding log timestamp: 18:57:53
+  Sum of last values: 331.08
+For CSV file 'locustfile_burst_high_0.01_120_40_10s_1_requests.csv':
+  Corresponding log timestamp: 13:14:27
+  Sum of last values: 4208.3
+For CSV file 'locustfile_burst_high_0.01_120_40_10s_2_requests.csv':
+  Corresponding log timestamp: 13:16:57
+  Sum of last values: 4072.800000000001
+For CSV file 'locustfile_burst_high_0.01_120_40_10s_3_requests.csv':
+  Corresponding log timestamp: 13:19:27
+  Sum of last values: 4055.3
+For CSV file 'locustfile_burst_high_0.01_120_40_10s_4_requests.csv':
+  Corresponding log timestamp: 13:21:57
+  Sum of last values: 3868.2
+For CSV file 'locustfile_burst_high_0.01_120_40_10s_5_requests.csv':
+  Corresponding log timestamp: 13:24:27
+  Sum of last values: 3892.3999999999996
+For CSV file 'locustfile_burst_high_0.01_120_40_10s_6_requests.csv':
+  Corresponding log timestamp: 13:26:57
+  Sum of last values: 3874.6
+For CSV file 'locustfile_burst_high_0.01_120_40_10s_7_requests.csv':
+  Corresponding log timestamp: 13:29:27
+  Sum of last values: 3822.7999999999997
+For CSV file 'locustfile_burst_high_0.01_120_40_10s_8_requests.csv':
+  Corresponding log timestamp: 13:31:57
+  Sum of last values: 3952.2999999999997
+For CSV file 'locustfile_burst_high_0.01_120_40_10s_9_requests.csv':
+  Corresponding log timestamp: 13:34:37
+  Sum of last values: 3774.7000000000003
+For CSV file 'locustfile_burst_high_0.01_120_40_10s_10_requests.csv':
+  Corresponding log timestamp: 13:37:07
+  Sum of last values: 3853.8999999999996
+For CSV file 'locustfile_burst_med_0.4_120_40_10s_1_requests.csv':
+  Corresponding log timestamp: 13:39:27
+  Sum of last values: 3557.0
+For CSV file 'locustfile_burst_med_0.4_120_40_10s_2_requests.csv':
+  Corresponding log timestamp: 13:41:57
+  Sum of last values: 3578.2
+For CSV file 'locustfile_burst_med_0.4_120_40_10s_3_requests.csv':
+  Corresponding log timestamp: 13:44:27
+  Sum of last values: 3565.7999999999997
+For CSV file 'locustfile_burst_med_0.4_120_40_10s_4_requests.csv':
+  Corresponding log timestamp: 13:46:57
+  Sum of last values: 3519.9999999999995
+For CSV file 'locustfile_burst_med_0.4_120_40_10s_5_requests.csv':
+  Corresponding log timestamp: 13:49:27
+  Sum of last values: 3511.7000000000003
+For CSV file 'locustfile_burst_med_0.4_120_40_10s_6_requests.csv':
+  Corresponding log timestamp: 13:51:57
+  Sum of last values: 3515.5
+For CSV file 'locustfile_burst_med_0.4_120_40_10s_7_requests.csv':
+  Corresponding log timestamp: 13:54:27
+  Sum of last values: 3569.6000000000004
+For CSV file 'locustfile_burst_med_0.4_120_40_10s_8_requests.csv':
+  Corresponding log timestamp: 13:57:07
+  Sum of last values: 3490.0
+For CSV file 'locustfile_burst_med_0.4_120_40_10s_9_requests.csv':
+  Corresponding log timestamp: 13:59:37
+  Sum of last values: 3520.2999999999997
+For CSV file 'locustfile_burst_med_0.4_120_40_10s_10_requests.csv':
+  Corresponding log timestamp: 14:02:07
+  Sum of last values: 3467.9999999999995
+For CSV file 'locustfile_burst_low_5_120_40_10s_1_requests.csv':
+  Corresponding log timestamp: 14:04:27
+  Sum of last values: 3459.3
+For CSV file 'locustfile_burst_low_5_120_40_10s_2_requests.csv':
+  Corresponding log timestamp: 14:06:57
+  Sum of last values: 3530.0
+For CSV file 'locustfile_burst_low_5_120_40_10s_3_requests.csv':
+  Corresponding log timestamp: 14:09:27
+  Sum of last values: 3479.6000000000004
+For CSV file 'locustfile_burst_low_5_120_40_10s_4_requests.csv':
+  Corresponding log timestamp: 14:11:57
+  Sum of last values: 3449.2000000000007
+For CSV file 'locustfile_burst_low_5_120_40_10s_5_requests.csv':
+  Corresponding log timestamp: 14:14:27
+  Sum of last values: 3527.7999999999997
+For CSV file 'locustfile_burst_low_5_120_40_10s_6_requests.csv':
+  Corresponding log timestamp: 14:17:07
+  Sum of last values: 3493.7
+For CSV file 'locustfile_burst_low_5_120_40_10s_7_requests.csv':
+  Corresponding log timestamp: 14:19:37
+  Sum of last values: 3539.1000000000004
+For CSV file 'locustfile_burst_low_5_120_40_10s_8_requests.csv':
+  Corresponding log timestamp: 14:22:07
+  Sum of last values: 3512.4
+For CSV file 'locustfile_burst_low_5_120_40_10s_9_requests.csv':
+  Corresponding log timestamp: 14:24:37
+  Sum of last values: 3494.6000000000004
+For CSV file 'locustfile_burst_low_5_120_40_10s_10_requests.csv':
+  Corresponding log timestamp: 14:27:07
+  Sum of last values: 3472.4999999999995
+For CSV file 'locustfile_even_high_0.5_120_40_120s_1_requests.csv':
+  Corresponding log timestamp: 14:29:27
+  Sum of last values: 4178.400000000001
+For CSV file 'locustfile_even_high_0.5_120_40_120s_2_requests.csv':
+  Corresponding log timestamp: 14:31:57
+  Sum of last values: 4045.7999999999993
+For CSV file 'locustfile_even_high_0.5_120_40_120s_3_requests.csv':
+  Corresponding log timestamp: 14:34:27
+  Sum of last values: 3871.8
+For CSV file 'locustfile_even_high_0.5_120_40_120s_4_requests.csv':
+  Corresponding log timestamp: 14:36:57
+  Sum of last values: 3924.6000000000004
+For CSV file 'locustfile_even_high_0.5_120_40_120s_5_requests.csv':
+  Corresponding log timestamp: 14:39:37
+  Sum of last values: 3821.399999999999
+For CSV file 'locustfile_even_high_0.5_120_40_120s_6_requests.csv':
+  Corresponding log timestamp: 14:42:07
+  Sum of last values: 3788.1
+For CSV file 'locustfile_even_high_0.5_120_40_120s_7_requests.csv':
+  Corresponding log timestamp: 14:44:37
+  Sum of last values: 3846.7999999999993
+For CSV file 'locustfile_even_high_0.5_120_40_120s_8_requests.csv':
+  Corresponding log timestamp: 14:47:07
+  Sum of last values: 3848.7999999999993
+For CSV file 'locustfile_even_high_0.5_120_40_120s_9_requests.csv':
+  Corresponding log timestamp: 14:49:37
+  Sum of last values: 3752.9999999999995
+For CSV file 'locustfile_even_high_0.5_120_40_120s_10_requests.csv':
+  Corresponding log timestamp: 14:52:07
+  Sum of last values: 3817.5
+For CSV file 'locustfile_even_med_6_120_40_120s_1_requests.csv':
+  Corresponding log timestamp: 14:54:27
+  Sum of last values: 3523.4999999999995
+For CSV file 'locustfile_even_med_6_120_40_120s_2_requests.csv':
+  Corresponding log timestamp: 14:56:57
+  Sum of last values: 3569.2000000000007
+For CSV file 'locustfile_even_med_6_120_40_120s_3_requests.csv':
+  Corresponding log timestamp: 14:59:27
+  Sum of last values: 3464.5
+For CSV file 'locustfile_even_med_6_120_40_120s_4_requests.csv':
+  Corresponding log timestamp: 15:02:07
+  Sum of last values: 3482.2999999999997
+For CSV file 'locustfile_even_med_6_120_40_120s_5_requests.csv':
+  Corresponding log timestamp: 15:04:37
+  Sum of last values: 3498.7
+For CSV file 'locustfile_even_med_6_120_40_120s_6_requests.csv':
+  Corresponding log timestamp: 15:07:07
+  Sum of last values: 3550.4999999999995
+For CSV file 'locustfile_even_med_6_120_40_120s_7_requests.csv':
+  Corresponding log timestamp: 15:09:37
+  Sum of last values: 3564.3
+For CSV file 'locustfile_even_med_6_120_40_120s_8_requests.csv':
+  Corresponding log timestamp: 15:12:07
+  Sum of last values: 3557.2999999999997
+For CSV file 'locustfile_even_med_6_120_40_120s_9_requests.csv':
+  Corresponding log timestamp: 15:14:37
+  Sum of last values: 3509.0999999999995
+For CSV file 'locustfile_even_med_6_120_40_120s_10_requests.csv':
+  Corresponding log timestamp: 15:17:07
+  Sum of last values: 3501.7
+For CSV file 'locustfile_even_low_60_120_40_120s_1_requests.csv':
+  Corresponding log timestamp: 15:19:27
+  Sum of last values: 3496.3
+For CSV file 'locustfile_even_low_60_120_40_120s_2_requests.csv':
+  Corresponding log timestamp: 15:21:57
+  Sum of last values: 3405.0
+For CSV file 'locustfile_even_low_60_120_40_120s_3_requests.csv':
+  Corresponding log timestamp: 15:24:37
+  Sum of last values: 3449.5
+For CSV file 'locustfile_even_low_60_120_40_120s_4_requests.csv':
+  Corresponding log timestamp: 15:27:07
+  Sum of last values: 3454.9999999999995
+For CSV file 'locustfile_even_low_60_120_40_120s_5_requests.csv':
+  Corresponding log timestamp: 15:29:37
+  Sum of last values: 3403.0999999999995
+For CSV file 'locustfile_even_low_60_120_40_120s_6_requests.csv':
+  Corresponding log timestamp: 15:32:07
+  Sum of last values: 3434.2
+For CSV file 'locustfile_even_low_60_120_40_120s_7_requests.csv':
+  Corresponding log timestamp: 15:34:37
+  Sum of last values: 3462.8999999999996
+For CSV file 'locustfile_even_low_60_120_40_120s_8_requests.csv':
+  Corresponding log timestamp: 15:37:07
+  Sum of last values: 3506.2
+For CSV file 'locustfile_even_low_60_120_40_120s_9_requests.csv':
+  Corresponding log timestamp: 15:39:37
+  Sum of last values: 3535.2000000000003
+For CSV file 'locustfile_even_low_60_120_40_120s_10_requests.csv':
+  Corresponding log timestamp: 15:42:07
+  Sum of last values: 3476.3999999999996
+For CSV file 'locustfile_burst_high_0.01_120_40_10s_1_requests.csv':
+  Corresponding log timestamp: 09:26:42
+  Sum of last values: 3640.2999999999997
+For CSV file 'locustfile_burst_high_0.01_120_40_10s_2_requests.csv':
+  Corresponding log timestamp: 09:58:02
+  Sum of last values: 4303.8
+For CSV file 'locustfile_burst_high_0.01_120_40_10s_3_requests.csv':
+  Corresponding log timestamp: 10:00:32
+  Sum of last values: 4282.4
+For CSV file 'locustfile_burst_high_0.01_120_40_10s_4_requests.csv':
+  Corresponding log timestamp: 10:03:02
+  Sum of last values: 4318.200000000001
+For CSV file 'locustfile_burst_high_0.01_120_40_10s_5_requests.csv':
+  Corresponding log timestamp: 10:05:32
+  Sum of last values: 4317.4
+For CSV file 'locustfile_burst_high_0.01_120_40_10s_6_requests.csv':
+  Corresponding log timestamp: 10:08:02
+  Sum of last values: 4287.2
+For CSV file 'locustfile_burst_high_0.01_120_40_10s_7_requests.csv':
+  Corresponding log timestamp: 10:10:32
+  Sum of last values: 4094.7000000000003
+For CSV file 'locustfile_burst_high_0.01_120_40_10s_8_requests.csv':
+  Corresponding log timestamp: 10:13:12
+  Sum of last values: 4091.8
+For CSV file 'locustfile_burst_high_0.01_120_40_10s_9_requests.csv':
+  Corresponding log timestamp: 10:15:42
+  Sum of last values: 3997.4999999999995
+For CSV file 'locustfile_burst_high_0.01_120_40_10s_10_requests.csv':
+  Corresponding log timestamp: 10:18:12
+  Sum of last values: 4184.6
+For CSV file 'locustfile_burst_med_0.4_120_40_10s_1_requests.csv':
+  Corresponding log timestamp: 10:20:32
+  Sum of last values: 3873.899999999999
+For CSV file 'locustfile_burst_med_0.4_120_40_10s_2_requests.csv':
+  Corresponding log timestamp: 10:23:02
+  Sum of last values: 3771.8
+For CSV file 'locustfile_burst_med_0.4_120_40_10s_3_requests.csv':
+  Corresponding log timestamp: 10:25:32
+  Sum of last values: 3703.6000000000004
+For CSV file 'locustfile_burst_med_0.4_120_40_10s_4_requests.csv':
+  Corresponding log timestamp: 10:28:02
+  Sum of last values: 3705.1999999999994
+For CSV file 'locustfile_burst_med_0.4_120_40_10s_5_requests.csv':
+  Corresponding log timestamp: 10:30:32
+  Sum of last values: 3747.3999999999996
+For CSV file 'locustfile_burst_med_0.4_120_40_10s_6_requests.csv':
+  Corresponding log timestamp: 10:33:02
+  Sum of last values: 3754.8999999999996
+For CSV file 'locustfile_burst_med_0.4_120_40_10s_7_requests.csv':
+  Corresponding log timestamp: 10:35:42
+  Sum of last values: 3709.7999999999997
+For CSV file 'locustfile_burst_med_0.4_120_40_10s_8_requests.csv':
+  Corresponding log timestamp: 10:38:12
+  Sum of last values: 3743.899999999999
+For CSV file 'locustfile_burst_med_0.4_120_40_10s_9_requests.csv':
+  Corresponding log timestamp: 10:40:42
+  Sum of last values: 3639.3999999999996
+For CSV file 'locustfile_burst_med_0.4_120_40_10s_10_requests.csv':
+  Corresponding log timestamp: 10:43:12
+  Sum of last values: 3656.0
+For CSV file 'locustfile_burst_low_5_120_40_10s_1_requests.csv':
+  Corresponding log timestamp: 10:45:32
+  Sum of last values: 3804.9000000000005
+For CSV file 'locustfile_burst_low_5_120_40_10s_2_requests.csv':
+  Corresponding log timestamp: 10:48:02
+  Sum of last values: 3728.8999999999996
+For CSV file 'locustfile_burst_low_5_120_40_10s_3_requests.csv':
+  Corresponding log timestamp: 10:50:32
+  Sum of last values: 3661.2000000000007
+For CSV file 'locustfile_burst_low_5_120_40_10s_4_requests.csv':
+  Corresponding log timestamp: 10:53:02
+  Sum of last values: 3684.0
+For CSV file 'locustfile_burst_low_5_120_40_10s_5_requests.csv':
+  Corresponding log timestamp: 10:55:42
+  Sum of last values: 3655.2999999999997
+For CSV file 'locustfile_burst_low_5_120_40_10s_6_requests.csv':
+  Corresponding log timestamp: 10:58:12
+  Sum of last values: 3717.9000000000005
+For CSV file 'locustfile_burst_low_5_120_40_10s_7_requests.csv':
+  Corresponding log timestamp: 11:00:42
+  Sum of last values: 3676.2
+For CSV file 'locustfile_burst_low_5_120_40_10s_8_requests.csv':
+  Corresponding log timestamp: 11:03:12
+  Sum of last values: 3692.9
+For CSV file 'locustfile_burst_low_5_120_40_10s_9_requests.csv':
+  Corresponding log timestamp: 11:05:42
+  Sum of last values: 3679.7999999999997
+For CSV file 'locustfile_burst_low_5_120_40_10s_10_requests.csv':
+  Corresponding log timestamp: 11:08:12
+  Sum of last values: 3683.8
+For CSV file 'locustfile_even_high_0.5_120_40_120s_1_requests.csv':
+  Corresponding log timestamp: 11:10:32
+  Sum of last values: 3904.9
+For CSV file 'locustfile_even_high_0.5_120_40_120s_2_requests.csv':
+  Corresponding log timestamp: 11:13:02
+  Sum of last values: 4064.0000000000005
+For CSV file 'locustfile_even_high_0.5_120_40_120s_3_requests.csv':
+  Corresponding log timestamp: 11:15:32
+  Sum of last values: 4229.200000000001
+For CSV file 'locustfile_even_high_0.5_120_40_120s_4_requests.csv':
+  Corresponding log timestamp: 11:18:12
+  Sum of last values: 4043.2999999999993
+For CSV file 'locustfile_even_high_0.5_120_40_120s_5_requests.csv':
+  Corresponding log timestamp: 11:20:42
+  Sum of last values: 4027.9999999999995
+For CSV file 'locustfile_even_high_0.5_120_40_120s_6_requests.csv':
+  Corresponding log timestamp: 11:23:12
+  Sum of last values: 4003.4999999999995
+For CSV file 'locustfile_even_high_0.5_120_40_120s_7_requests.csv':
+  Corresponding log timestamp: 11:25:42
+  Sum of last values: 4080.999999999999
+For CSV file 'locustfile_even_high_0.5_120_40_120s_8_requests.csv':
+  Corresponding log timestamp: 11:28:12
+  Sum of last values: 3990.6
+For CSV file 'locustfile_even_high_0.5_120_40_120s_9_requests.csv':
+  Corresponding log timestamp: 11:30:42
+  Sum of last values: 4009.2000000000003
+For CSV file 'locustfile_even_high_0.5_120_40_120s_10_requests.csv':
+  Corresponding log timestamp: 11:33:12
+  Sum of last values: 3965.4999999999995
+For CSV file 'locustfile_even_med_6_120_40_120s_1_requests.csv':
+  Corresponding log timestamp: 11:35:32
+  Sum of last values: 3669.2000000000007
+For CSV file 'locustfile_even_med_6_120_40_120s_2_requests.csv':
+  Corresponding log timestamp: 11:38:02
+  Sum of last values: 3704.8
+For CSV file 'locustfile_even_med_6_120_40_120s_3_requests.csv':
+  Corresponding log timestamp: 11:40:42
+  Sum of last values: 3703.1000000000004
+For CSV file 'locustfile_even_med_6_120_40_120s_4_requests.csv':
+  Corresponding log timestamp: 11:43:12
+  Sum of last values: 3750.2
+For CSV file 'locustfile_even_med_6_120_40_120s_5_requests.csv':
+  Corresponding log timestamp: 11:45:42
+  Sum of last values: 3748.1
+For CSV file 'locustfile_even_med_6_120_40_120s_6_requests.csv':
+  Corresponding log timestamp: 11:48:12
+  Sum of last values: 3705.7999999999997
+For CSV file 'locustfile_even_med_6_120_40_120s_7_requests.csv':
+  Corresponding log timestamp: 11:50:42
+  Sum of last values: 3719.2
+For CSV file 'locustfile_even_med_6_120_40_120s_8_requests.csv':
+  Corresponding log timestamp: 11:53:12
+  Sum of last values: 3616.5
+For CSV file 'locustfile_even_med_6_120_40_120s_9_requests.csv':
+  Corresponding log timestamp: 11:55:42
+  Sum of last values: 3666.5
+For CSV file 'locustfile_even_med_6_120_40_120s_10_requests.csv':
+  Corresponding log timestamp: 11:58:12
+  Sum of last values: 3741.600000000001
+For CSV file 'locustfile_even_low_60_120_40_120s_1_requests.csv':
+  Corresponding log timestamp: 12:00:32
+  Sum of last values: 3649.7000000000003
+For CSV file 'locustfile_even_low_60_120_40_120s_2_requests.csv':
+  Corresponding log timestamp: 12:03:12
+  Sum of last values: 3617.5
+For CSV file 'locustfile_even_low_60_120_40_120s_3_requests.csv':
+  Corresponding log timestamp: 12:05:42
+  Sum of last values: 3695.6
+For CSV file 'locustfile_even_low_60_120_40_120s_4_requests.csv':
+  Corresponding log timestamp: 12:08:12
+  Sum of last values: 3689.3999999999996
+For CSV file 'locustfile_even_low_60_120_40_120s_5_requests.csv':
+  Corresponding log timestamp: 12:10:42
+  Sum of last values: 3656.2000000000007
+For CSV file 'locustfile_even_low_60_120_40_120s_6_requests.csv':
+  Corresponding log timestamp: 12:13:12
+  Sum of last values: 3725.1000000000004
+For CSV file 'locustfile_even_low_60_120_40_120s_7_requests.csv':
+  Corresponding log timestamp: 12:15:42
+  Sum of last values: 3729.6000000000004
+For CSV file 'locustfile_even_low_60_120_40_120s_8_requests.csv':
+  Corresponding log timestamp: 12:18:12
+  Sum of last values: 3585.7
+For CSV file 'locustfile_even_low_60_120_40_120s_9_requests.csv':
+  Corresponding log timestamp: 12:20:42
+  Sum of last values: 3567.2999999999993
+For CSV file 'locustfile_even_low_60_120_40_120s_10_requests.csv':
+  Corresponding log timestamp: 12:23:22
+  Sum of last values: 3647.5
